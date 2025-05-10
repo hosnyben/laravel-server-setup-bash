@@ -3,10 +3,6 @@
 This Bash script automates the deployment of **Laravel**, **React**, **Meilisearch**, and **phpMyAdmin** applications on a fresh Ubuntu server.  
 It configures essential services like **NGINX**, **PHP-FPM**, **MySQL**, **Supervisor**, **Certbot SSL**, **UFW**, and **Redis**, and sets up secure deployments with dedicated users and SSH keys.
 
----
-## Demo video
-A real demo of the script usage. [Click here](https://drive.google.com/file/d/1HKQ2rhujpHq9mn9MvBLK74uiD99tYxva/view?usp=sharing)
-
 ## Features
 
 - 📦 Auto-installs **NGINX**, **PHP** (custom version), **MySQL**, **Redis**, **Supervisor**, **Certbot**, **Node.js**, and more.
